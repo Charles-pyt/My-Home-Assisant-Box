@@ -1,6 +1,7 @@
 # My-Home-Assisant-Box
 
-The aim of this project is to build a mini box containing a single-board computer a RaspberryPi 4 that can run Home Assistant and connect all your smart devices.
+The aim of this project is to build a mini box containing a single-board computer (maybe a RaspberryPi) that can run Home Assistant and connect all your smart devices. Prebuilt Home-Assistant exists but they are expensive and  now they have stop the production of them. You can build it for  €119.07 if you already have certain tools and €145.15 if you don't have any parts.
+
 ## Parts needed
 
 -Raspberry PI 4 Model B 4GB 
