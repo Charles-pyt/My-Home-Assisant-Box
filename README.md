@@ -24,6 +24,8 @@ The aim of this project is to build a mini box containing a single-board compute
 
 -LEDs SK6812 RGBW 5V
 
+-Noctua NF-A4x10 40mm 5V 3PIN
+
 # Images
 
 ## Box
