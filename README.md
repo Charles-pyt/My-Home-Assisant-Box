@@ -29,8 +29,15 @@ The aim of this project is to build a mini box containing a single-board compute
 # Images
 
 ## Box
-<img width="1904" height="907" alt="Full_Box" src="https://github.com/user-attachments/assets/6b984836-6575-47c8-9efd-cb4339df7086" />
+<img width="758" height="606" alt="Vue d&#39;ensemble" src="https://github.com/user-attachments/assets/1f77b918-b381-4574-b7c0-cebd7e8e7473" />
+<img width="806" height="690" alt="Vue d&#39;ensemble derriere" src="https://github.com/user-attachments/assets/ca68fb19-dd03-4641-9e41-f36a07c1c961" />
+<img width="840" height="594" alt="Vue connecteur" src="https://github.com/user-attachments/assets/7a746bb6-ebb6-48f9-b928-0e78ae881728" />
+
 ## Inside
-<img width="1919" height="934" alt="Inside" src="https://github.com/user-attachments/assets/f05edf31-d58b-421e-8971-7578f8013423" />
-## Components plate
-<img width="964" height="764" alt="Components_plate" src="https://github.com/user-attachments/assets/61d65f21-780c-4f59-a095-e83a3d44e9a3" />
+<img width="1027" height="714" alt="Vue aeration" src="https://github.com/user-attachments/assets/7103b916-d3e9-42f8-9deb-46c1702aeb8a" />
+<img width="1137" height="631" alt="Vue aeration 2" src="https://github.com/user-attachments/assets/ad1ccfbc-1a11-4dea-a826-dbab830910d3" />
+<img width="934" height="777" alt="Vue derriere" src="https://github.com/user-attachments/assets/b74d2dcd-789c-4a40-bc2f-99087d14fd28" />
+
+## Components
+<img width="890" height="806" alt="Vue-éclatée" src="https://github.com/user-attachments/assets/ffaf3b11-619a-42a3-a50a-5af3bba887ab" />
+
