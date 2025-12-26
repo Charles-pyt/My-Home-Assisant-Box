@@ -28,6 +28,11 @@ The aim of this project is to build a mini box containing a single-board compute
 
 # Images
 
+# BOM (Bill of Materials)
+
+<img width="861" height="325" alt="BOM" src="https://github.com/user-attachments/assets/234953be-7ea5-4e26-b66f-759378559704" />
+
+
 ## Box
 <img width="758" height="606" alt="Vue d&#39;ensemble" src="https://github.com/user-attachments/assets/1f77b918-b381-4574-b7c0-cebd7e8e7473" />
 <img width="806" height="690" alt="Vue d&#39;ensemble derriere" src="https://github.com/user-attachments/assets/ca68fb19-dd03-4641-9e41-f36a07c1c961" />
@@ -40,4 +45,8 @@ The aim of this project is to build a mini box containing a single-board compute
 
 ## Components
 <img width="890" height="806" alt="Vue-éclatée" src="https://github.com/user-attachments/assets/ffaf3b11-619a-42a3-a50a-5af3bba887ab" />
+
+# Schematic
+<img width="1149" height="923" alt="Schéma" src="https://github.com/user-attachments/assets/cd80a4e2-dc01-4201-8681-3e562befa9c6" />
+
 
